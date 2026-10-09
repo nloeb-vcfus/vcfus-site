@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /apply/received/
+Disallow: /book/confirmed/
+
+Sitemap: https://vcfus.com/sitemap-index.xml
